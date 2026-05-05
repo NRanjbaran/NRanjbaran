@@ -2,9 +2,9 @@
 
 ---
 
-I'm a passionate and experienced Full-Stack Developer with over 5 years of experience specializing in creating robust and scalable applications. My primary expertise lies in the Java/Kotlin ecosystem with the Spring Framework for backend development, and I'm equally proficient in building dynamic user interfaces with React and Angular.
+I'm a passionate and experienced Full-Stack Developer with over 8 years of experience specializing in creating robust and scalable applications. My primary expertise lies in the Java/Kotlin ecosystem with the Spring Framework for backend development, and I'm equally proficient in building dynamic user interfaces with React and Angular.
 
-I have a strong background in backend development, with 3 dedicated years working extensively with Java. I thrive in environments that leverage modern technologies and practices like microservices, containerization, and CI/CD.
+I have a strong background in backend development, with 8 dedicated years working extensively with Java. I thrive in environments that leverage modern technologies and practices like microservices, containerization, and CI/CD.
 
 ---
 
